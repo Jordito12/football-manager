@@ -1,0 +1,15 @@
+C:\Users\GAMING\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\football.csproj.AssemblyReference.cache
+C:\Users\GAMING\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMING\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\football.AssemblyInfoInputs.cache
+C:\Users\GAMING\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\football.AssemblyInfo.cs
+C:\Users\GAMING\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\football.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\football.exe
+C:\Users\GAMING\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\football.deps.json
+C:\Users\GAMING\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\football.runtimeconfig.json
+C:\Users\GAMING\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\football.dll
+C:\Users\GAMING\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\football.pdb
+C:\Users\GAMING\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\football.dll
+C:\Users\GAMING\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\refint\football.dll
+C:\Users\GAMING\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\football.pdb
+C:\Users\GAMING\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\football.genruntimeconfig.cache
+C:\Users\GAMING\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ref\football.dll
