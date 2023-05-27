@@ -41,7 +41,6 @@
 10. Game
   a. Team 1
     i. 11 players only.
-
   b. Team 2
     i. 11 players only.
   c. Referee
