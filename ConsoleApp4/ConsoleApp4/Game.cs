@@ -8,6 +8,8 @@ class Game
     public Team Team1 { get; set; }
     public Team Team2 { get; set; }
     public Referee Referee { get; set; }
+    public Referee Assistant1 { get; set; }
+    public Referee Assistant2 { get; set; }
     public List<Goal> Goals { get; set; }
     public string Result
     {

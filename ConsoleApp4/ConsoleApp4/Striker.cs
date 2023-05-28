@@ -5,4 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 class Striker : FootballPlayer
 {
+    public Striker(string name, int age, int number, double height) : base(name, age, number, height)
+    {
+
+    }
 }

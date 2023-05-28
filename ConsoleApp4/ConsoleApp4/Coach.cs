@@ -5,4 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 class Coach : Person
 {
+    public Coach(string name,int age):base (name, age)
+    {
+        
+    }
 }
